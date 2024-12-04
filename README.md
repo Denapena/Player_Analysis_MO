@@ -1,6 +1,6 @@
 # Player Analysis - Mislav Oršić
 
-Project for Soccermatics Pro Course where I analysed a player of my choice at the World Cup 2022, plotted some interesting characteristic of this player on the football pitch and compared him with similar players at the World Cup 2022 based on the same characteristic. This project uses free data from Hudl Statsbomb to plot actions of football players on the football pitch to highlight the desired aspect of the football game. Together with the jupyter notebook a pdf file is provided with the projects summary and the two plots that are attached in it.
+Project for Soccermatics Pro Course where I analyzed a player of my choice at the World Cup 2022, plotted some interesting characteristics of this player on the football pitch and compared him with similar players at the World Cup 2022 based on the same characteristics. This project uses free data from Hudl Statsbomb to plot the actions of football players on the football pitch to highlight the desired aspect of the football game. Together with the Jupyter Notebook a pdf file is provided with the project summary and the two plots that are attached in it.
 
 ## Getting Started
 
