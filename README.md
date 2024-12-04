@@ -11,7 +11,7 @@ Project for Soccermatics Pro Course where I analyzed a player of my choice at th
 
 ## Author
 
-Contributors names and contact info
+Contributors names and contact info:
 Denis Dervishi, denisdervishi@gmail.com
 
 ## License
@@ -21,4 +21,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Soccermatics](https://soccermatics.readthedocs.io/en/latest/))
+* [Soccermatics: ](https://soccermatics.readthedocs.io/en/latest/)
