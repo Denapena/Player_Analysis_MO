@@ -4,10 +4,8 @@ Project for Soccermatics Pro Course where I analyzed a player of my choice at th
 
 ## Main tools used
 
-* Pandas
-* Matplotlib
+* Pandas, Matplotlib and Numpy
 * Mplsoccer
-* Numpy
 
 ## Getting Started
 
