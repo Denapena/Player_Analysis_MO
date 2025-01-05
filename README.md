@@ -1,6 +1,6 @@
 # Player Analysis - Mislav Oršić
 
-Project where I analyzed a player of my choice at the World Cup 2022, plotted some interesting characteristics of this player on the football pitch and compared him with similar players at the World Cup 2022 based on the same characteristics. This project uses free data from Hudl Statsbomb to plot the actions of football players on the football pitch to highlight the desired aspect of the football game. Together with the Jupyter Notebook a pdf file is provided with the project summary and the two plots that are attached in it.
+Analysing a player of my choice at the World Cup 2022, plotting some interesting characteristics of this player on the football pitch, and comparing him with similar players at the World Cup 2022 based on the same characteristics. This project uses free data from Hudl Statsbomb to plot the actions of football players on the football pitch to highlight the desired aspect of the football game. Together with the Jupyter Notebook a pdf file is provided with the project summary and the two plots that are attached in it.
 
 ## Main tools used
 
